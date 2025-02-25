@@ -1,0 +1,1271 @@
+{
+    "status": "OK",
+    "parameter": {
+        "tipe": "harian",
+        "waktu": "01 Januari 2022 s.d 31 Oktober 2022",
+        "kategori": "kelurahan",
+        "area": "Banjarnegara"
+    },
+    "persentase_wilayah": [
+        {
+            "value": "Purwanegara",
+            "label": "35.79 %"
+        },
+        {
+            "value": "Mandiraja",
+            "label": "25.95 %"
+        },
+        {
+            "value": "Rakit",
+            "label": "18.59 %"
+        },
+        {
+            "value": "Bawang",
+            "label": "5.81 %"
+        },
+        {
+            "value": "Punggelan",
+            "label": "2.76 %"
+        },
+        {
+            "value": "Purwareja Klampok",
+            "label": "2.37 %"
+        },
+        {
+            "value": "Banjarnegara",
+            "label": "1.44 %"
+        },
+        {
+            "value": "Wanadadi",
+            "label": "1.44 %"
+        },
+        {
+            "value": "Wanayasa",
+            "label": "0.74 %"
+        },
+        {
+            "value": "Kalibening",
+            "label": "0.70 %"
+        },
+        {
+            "value": "Pagendongan",
+            "label": "0.65 %"
+        },
+        {
+            "value": "Banjarmangu",
+            "label": "0.61 %"
+        },
+        {
+            "value": "Madukara",
+            "label": "0.54 %"
+        },
+        {
+            "value": "Karangkobar",
+            "label": "0.53 %"
+        },
+        {
+            "value": "Pejawaran",
+            "label": "0.47 %"
+        },
+        {
+            "value": "Sigaluh",
+            "label": "0.46 %"
+        },
+        {
+            "value": "Susukan",
+            "label": "0.38 %"
+        },
+        {
+            "value": "Pagentan",
+            "label": "0.38 %"
+        },
+        {
+            "value": "Pandanarum",
+            "label": "0.28 %"
+        },
+        {
+            "value": "kutabanjar",
+            "label": "0.08 %"
+        },
+        {
+            "value": "Batur",
+            "label": "0.04 %"
+        }
+    ],
+    "data": [
+        {
+            "area": "Purwareja Klampok",
+            "sub_area": [
+                {
+                    "nama": "Kalimandi",
+                    "total": 102
+                },
+                {
+                    "nama": "Klampok",
+                    "total": 87
+                },
+                {
+                    "nama": "Kaliwinasuh",
+                    "total": 82
+                },
+                {
+                    "nama": "Purwareja",
+                    "total": 64
+                },
+                {
+                    "nama": "Kalilandak",
+                    "total": 57
+                },
+                {
+                    "nama": "Sirkandi",
+                    "total": 31
+                },
+                {
+                    "nama": "Pagak",
+                    "total": 19
+                },
+                {
+                    "nama": "Kecitran",
+                    "total": 19
+                }
+            ],
+            "total": 461
+        },
+        {
+            "area": "Karangkobar",
+            "sub_area": [
+                {
+                    "nama": "Leksana",
+                    "total": 32
+                },
+                {
+                    "nama": "Karangkobar",
+                    "total": 27
+                },
+                {
+                    "nama": "Sampang",
+                    "total": 10
+                },
+                {
+                    "nama": "Purwodadi",
+                    "total": 6
+                },
+                {
+                    "nama": "Slatri",
+                    "total": 5
+                },
+                {
+                    "nama": "Ambal",
+                    "total": 5
+                },
+                {
+                    "nama": "Paweden",
+                    "total": 4
+                },
+                {
+                    "nama": "Pasuruhan",
+                    "total": 4
+                },
+                {
+                    "nama": "Binangun",
+                    "total": 3
+                },
+                {
+                    "nama": "Jlegong",
+                    "total": 3
+                },
+                {
+                    "nama": "Karanggondang",
+                    "total": 2
+                },
+                {
+                    "nama": "Pagerpelah",
+                    "total": 2
+                }
+            ],
+            "total": 103
+        },
+        {
+            "area": "Kalibening",
+            "sub_area": [
+                {
+                    "nama": "Kertosari",
+                    "total": 20
+                },
+                {
+                    "nama": "Kalisat Kidul",
+                    "total": 17
+                },
+                {
+                    "nama": "Sidakangen",
+                    "total": 15
+                },
+                {
+                    "nama": "Kalibombong",
+                    "total": 14
+                },
+                {
+                    "nama": "Sirukun",
+                    "total": 12
+                },
+                {
+                    "nama": "Majatengah",
+                    "total": 10
+                },
+                {
+                    "nama": "Kalibening",
+                    "total": 9
+                },
+                {
+                    "nama": "KARANGANYAR",
+                    "total": 7
+                },
+                {
+                    "nama": "Sikumpul",
+                    "total": 7
+                },
+                {
+                    "nama": "Gununglangit",
+                    "total": 5
+                },
+                {
+                    "nama": "Plorengan",
+                    "total": 5
+                },
+                {
+                    "nama": "Bedana",
+                    "total": 4
+                },
+                {
+                    "nama": "Sirukem",
+                    "total": 3
+                },
+                {
+                    "nama": "Asinan",
+                    "total": 3
+                },
+                {
+                    "nama": "Kertasari",
+                    "total": 2
+                },
+                {
+                    "nama": "Kasinoman",
+                    "total": 2
+                },
+                {
+                    "nama": "Sembawa",
+                    "total": 1
+                }
+            ],
+            "total": 136
+        },
+        {
+            "area": "Bawang",
+            "sub_area": [
+                {
+                    "nama": "Binorong",
+                    "total": 192
+                },
+                {
+                    "nama": "Wiramastra",
+                    "total": 116
+                },
+                {
+                    "nama": "Wanadri",
+                    "total": 113
+                },
+                {
+                    "nama": "Kebondalem",
+                    "total": 110
+                },
+                {
+                    "nama": "Gemuruh",
+                    "total": 84
+                },
+                {
+                    "nama": "Majalengka",
+                    "total": 84
+                },
+                {
+                    "nama": "Bawang",
+                    "total": 83
+                },
+                {
+                    "nama": "Joho",
+                    "total": 55
+                },
+                {
+                    "nama": "Blambangan",
+                    "total": 41
+                },
+                {
+                    "nama": "Pucang",
+                    "total": 38
+                },
+                {
+                    "nama": "Kutayasa",
+                    "total": 38
+                },
+                {
+                    "nama": "Watuurip",
+                    "total": 34
+                },
+                {
+                    "nama": "Winong",
+                    "total": 29
+                },
+                {
+                    "nama": "Serang",
+                    "total": 29
+                },
+                {
+                    "nama": "Bandingan",
+                    "total": 26
+                },
+                {
+                    "nama": "Mantrianom",
+                    "total": 26
+                },
+                {
+                    "nama": "Depok",
+                    "total": 20
+                },
+                {
+                    "nama": "Masaran",
+                    "total": 10
+                },
+                {
+                    "nama": "SIBUGEL",
+                    "total": 2
+                }
+            ],
+            "total": 1130
+        },
+        {
+            "area": "kutabanjar",
+            "sub_area": [
+                {
+                    "nama": "KUTABANJAR",
+                    "total": 15
+                }
+            ],
+            "total": 15
+        },
+        {
+            "area": "Pagendongan",
+            "sub_area": [
+                {
+                    "nama": "Pagedongan",
+                    "total": 41
+                },
+                {
+                    "nama": "Lebakwangi",
+                    "total": 17
+                },
+                {
+                    "nama": "Kebutuhjurang",
+                    "total": 14
+                },
+                {
+                    "nama": "Pesangkalan",
+                    "total": 13
+                },
+                {
+                    "nama": "Kebutuhduwur",
+                    "total": 12
+                },
+                {
+                    "nama": "Gentansari",
+                    "total": 11
+                },
+                {
+                    "nama": "Twelagiri",
+                    "total": 10
+                },
+                {
+                    "nama": "Gunungjati",
+                    "total": 5
+                },
+                {
+                    "nama": "Duren",
+                    "total": 3
+                }
+            ],
+            "total": 126
+        },
+        {
+            "area": "Punggelan",
+            "sub_area": [
+                {
+                    "nama": "Tribuana",
+                    "total": 76
+                },
+                {
+                    "nama": "Badakarya",
+                    "total": 59
+                },
+                {
+                    "nama": "Purwasana",
+                    "total": 42
+                },
+                {
+                    "nama": "Bondolharjo",
+                    "total": 42
+                },
+                {
+                    "nama": "Petuguran",
+                    "total": 41
+                },
+                {
+                    "nama": "Tanjungtirta",
+                    "total": 40
+                },
+                {
+                    "nama": "Sidarata",
+                    "total": 29
+                },
+                {
+                    "nama": "Danakerta",
+                    "total": 29
+                },
+                {
+                    "nama": "Sambong",
+                    "total": 28
+                },
+                {
+                    "nama": "Tlaga",
+                    "total": 27
+                },
+                {
+                    "nama": "Karangsari",
+                    "total": 25
+                },
+                {
+                    "nama": "Klapa",
+                    "total": 24
+                },
+                {
+                    "nama": "Punggelan",
+                    "total": 24
+                },
+                {
+                    "nama": "Mlaya",
+                    "total": 21
+                },
+                {
+                    "nama": "Sawangan",
+                    "total": 14
+                },
+                {
+                    "nama": "Kecepit",
+                    "total": 8
+                },
+                {
+                    "nama": "Jembangan",
+                    "total": 7
+                }
+            ],
+            "total": 536
+        },
+        {
+            "area": "Susukan",
+            "sub_area": [
+                {
+                    "nama": "Gumelem Wetan",
+                    "total": 17
+                },
+                {
+                    "nama": "Dermasari",
+                    "total": 16
+                },
+                {
+                    "nama": "Gumelem Kulon",
+                    "total": 8
+                },
+                {
+                    "nama": "Berta",
+                    "total": 8
+                },
+                {
+                    "nama": "Susukan",
+                    "total": 6
+                },
+                {
+                    "nama": "Karangjati",
+                    "total": 5
+                },
+                {
+                    "nama": "Kemranggon",
+                    "total": 3
+                },
+                {
+                    "nama": "Panerusan Kulon",
+                    "total": 2
+                },
+                {
+                    "nama": "Brengkok",
+                    "total": 2
+                },
+                {
+                    "nama": "Kedawung",
+                    "total": 2
+                },
+                {
+                    "nama": "Derik",
+                    "total": 2
+                },
+                {
+                    "nama": "Karangsalam",
+                    "total": 2
+                }
+            ],
+            "total": 73
+        },
+        {
+            "area": "Pejawaran",
+            "sub_area": [
+                {
+                    "nama": "Penusupan",
+                    "total": 22
+                },
+                {
+                    "nama": "Sidengok",
+                    "total": 14
+                },
+                {
+                    "nama": "Sarwodadi",
+                    "total": 12
+                },
+                {
+                    "nama": "Giritirta",
+                    "total": 9
+                },
+                {
+                    "nama": "Biting",
+                    "total": 6
+                },
+                {
+                    "nama": "Karangsari",
+                    "total": 6
+                },
+                {
+                    "nama": "DERMAYASA",
+                    "total": 6
+                },
+                {
+                    "nama": "Darmayasa",
+                    "total": 6
+                },
+                {
+                    "nama": "Pegundungan",
+                    "total": 4
+                },
+                {
+                    "nama": "Condong Campur",
+                    "total": 3
+                },
+                {
+                    "nama": "Kalilunjar",
+                    "total": 2
+                },
+                {
+                    "nama": "Grogol",
+                    "total": 2
+                }
+            ],
+            "total": 92
+        },
+        {
+            "area": "Wanadadi",
+            "sub_area": [
+                {
+                    "nama": "Wanadadi",
+                    "total": 69
+                },
+                {
+                    "nama": "Wanakarsa",
+                    "total": 49
+                },
+                {
+                    "nama": "Karangjambe",
+                    "total": 40
+                },
+                {
+                    "nama": "Lemahjaya",
+                    "total": 23
+                },
+                {
+                    "nama": "Kandangwangi",
+                    "total": 23
+                },
+                {
+                    "nama": "KASILIB",
+                    "total": 20
+                },
+                {
+                    "nama": "Tapen",
+                    "total": 19
+                },
+                {
+                    "nama": "Medayu",
+                    "total": 15
+                },
+                {
+                    "nama": "Linggasari",
+                    "total": 11
+                },
+                {
+                    "nama": "Karangkemiri",
+                    "total": 10
+                },
+                {
+                    "nama": "Gumingsir",
+                    "total": 1
+                }
+            ],
+            "total": 280
+        },
+        {
+            "area": "Pagentan",
+            "sub_area": [
+                {
+                    "nama": "Pagentan",
+                    "total": 19
+                },
+                {
+                    "nama": "Kalitlaga",
+                    "total": 10
+                },
+                {
+                    "nama": "Tegaljeruk",
+                    "total": 8
+                },
+                {
+                    "nama": "Babadan",
+                    "total": 7
+                },
+                {
+                    "nama": "Karekan",
+                    "total": 6
+                },
+                {
+                    "nama": "Sokaraja",
+                    "total": 4
+                },
+                {
+                    "nama": "Karangnangka",
+                    "total": 4
+                },
+                {
+                    "nama": "Majasari",
+                    "total": 4
+                },
+                {
+                    "nama": "Metawana",
+                    "total": 2
+                },
+                {
+                    "nama": "Larangan",
+                    "total": 2
+                },
+                {
+                    "nama": "Kasmaran",
+                    "total": 2
+                },
+                {
+                    "nama": "Plumbungan",
+                    "total": 2
+                },
+                {
+                    "nama": "Nagasari",
+                    "total": 2
+                },
+                {
+                    "nama": "Kayuares",
+                    "total": 1
+                },
+                {
+                    "nama": "Aribaya",
+                    "total": 1
+                }
+            ],
+            "total": 74
+        },
+        {
+            "area": "Wanayasa",
+            "sub_area": [
+                {
+                    "nama": "Wanayasa",
+                    "total": 22
+                },
+                {
+                    "nama": "Wanaraja",
+                    "total": 18
+                },
+                {
+                    "nama": "Kasimpar",
+                    "total": 15
+                },
+                {
+                    "nama": "Penanggungan",
+                    "total": 12
+                },
+                {
+                    "nama": "Bantar",
+                    "total": 12
+                },
+                {
+                    "nama": "Kubang",
+                    "total": 12
+                },
+                {
+                    "nama": "Legoksayem",
+                    "total": 11
+                },
+                {
+                    "nama": "Karangtengah",
+                    "total": 9
+                },
+                {
+                    "nama": "Pagergunung",
+                    "total": 8
+                },
+                {
+                    "nama": "Jatilawang",
+                    "total": 6
+                },
+                {
+                    "nama": "Pandansari",
+                    "total": 5
+                },
+                {
+                    "nama": "Suwidak",
+                    "total": 3
+                },
+                {
+                    "nama": "Pesantren",
+                    "total": 3
+                },
+                {
+                    "nama": "Dawuhan",
+                    "total": 3
+                },
+                {
+                    "nama": "Susukan",
+                    "total": 2
+                },
+                {
+                    "nama": "Tempuran",
+                    "total": 2
+                }
+            ],
+            "total": 143
+        },
+        {
+            "area": "Banjarnegara",
+            "sub_area": [
+                {
+                    "nama": "Kutabanjarnegara",
+                    "total": 59
+                },
+                {
+                    "nama": "Sokanandi",
+                    "total": 51
+                },
+                {
+                    "nama": "Argasoka",
+                    "total": 31
+                },
+                {
+                    "nama": "Semampir",
+                    "total": 29
+                },
+                {
+                    "nama": "Parakancanggah",
+                    "total": 25
+                },
+                {
+                    "nama": "Krandegan",
+                    "total": 19
+                },
+                {
+                    "nama": "Semarang",
+                    "total": 18
+                },
+                {
+                    "nama": "Karangtengah",
+                    "total": 18
+                },
+                {
+                    "nama": "Sokayasa",
+                    "total": 13
+                },
+                {
+                    "nama": "Wangon",
+                    "total": 8
+                },
+                {
+                    "nama": "Cendana",
+                    "total": 5
+                },
+                {
+                    "nama": "Tlagawera",
+                    "total": 2
+                },
+                {
+                    "nama": "Ampelsari",
+                    "total": 2
+                }
+            ],
+            "total": 280
+        },
+        {
+            "area": "Rakit",
+            "sub_area": [
+                {
+                    "nama": "Pingit",
+                    "total": 632
+                },
+                {
+                    "nama": "Adipasir",
+                    "total": 521
+                },
+                {
+                    "nama": "Rakit",
+                    "total": 490
+                },
+                {
+                    "nama": "Gelang",
+                    "total": 401
+                },
+                {
+                    "nama": "Bandingan",
+                    "total": 370
+                },
+                {
+                    "nama": "Situwangi",
+                    "total": 354
+                },
+                {
+                    "nama": "Kincang",
+                    "total": 259
+                },
+                {
+                    "nama": "Badamita",
+                    "total": 213
+                },
+                {
+                    "nama": "Lengkong",
+                    "total": 186
+                },
+                {
+                    "nama": "Tanjunganom",
+                    "total": 134
+                },
+                {
+                    "nama": "Luwung",
+                    "total": 55
+                }
+            ],
+            "total": 3615
+        },
+        {
+            "area": "Banjarmangu",
+            "sub_area": [
+                {
+                    "nama": "Rejasari",
+                    "total": 15
+                },
+                {
+                    "nama": "Banjarkulon",
+                    "total": 12
+                },
+                {
+                    "nama": "Kesenet",
+                    "total": 12
+                },
+                {
+                    "nama": "Jenggawur",
+                    "total": 11
+                },
+                {
+                    "nama": "Gripit",
+                    "total": 8
+                },
+                {
+                    "nama": "Pekandangan",
+                    "total": 8
+                },
+                {
+                    "nama": "Sipedang",
+                    "total": 8
+                },
+                {
+                    "nama": "Majatengah",
+                    "total": 7
+                },
+                {
+                    "nama": "Beji",
+                    "total": 6
+                },
+                {
+                    "nama": "Sijeruk",
+                    "total": 5
+                },
+                {
+                    "nama": "Paseh",
+                    "total": 5
+                },
+                {
+                    "nama": "Banjarmangu",
+                    "total": 5
+                },
+                {
+                    "nama": "SIGEBLOG",
+                    "total": 4
+                },
+                {
+                    "nama": "Prendengan",
+                    "total": 4
+                },
+                {
+                    "nama": "Kalilunjar",
+                    "total": 4
+                },
+                {
+                    "nama": "Kendaga",
+                    "total": 3
+                },
+                {
+                    "nama": "Sijenggung",
+                    "total": 2
+                }
+            ],
+            "total": 119
+        },
+        {
+            "area": "Madukara",
+            "sub_area": [
+                {
+                    "nama": "Kaliurip",
+                    "total": 16
+                },
+                {
+                    "nama": "Rakitan",
+                    "total": 12
+                },
+                {
+                    "nama": "Kutayasa",
+                    "total": 11
+                },
+                {
+                    "nama": "Petambakan",
+                    "total": 11
+                },
+                {
+                    "nama": "Pagelak",
+                    "total": 11
+                },
+                {
+                    "nama": "Rejasa",
+                    "total": 10
+                },
+                {
+                    "nama": "Talunamba",
+                    "total": 7
+                },
+                {
+                    "nama": "Clapar",
+                    "total": 7
+                },
+                {
+                    "nama": "Limbangan",
+                    "total": 7
+                },
+                {
+                    "nama": "Karanganyar",
+                    "total": 4
+                },
+                {
+                    "nama": "Madukara",
+                    "total": 3
+                },
+                {
+                    "nama": "Bantarwaru",
+                    "total": 1
+                },
+                {
+                    "nama": "Kenteng",
+                    "total": 1
+                },
+                {
+                    "nama": "Pakelen",
+                    "total": 1
+                },
+                {
+                    "nama": "Dawuhan",
+                    "total": 1
+                },
+                {
+                    "nama": "Blitar",
+                    "total": 1
+                },
+                {
+                    "nama": "Gununggiana",
+                    "total": 1
+                }
+            ],
+            "total": 105
+        },
+        {
+            "area": "Purwanegara",
+            "sub_area": [
+                {
+                    "nama": "Danaraja",
+                    "total": 1104
+                },
+                {
+                    "nama": "Purwonegoro",
+                    "total": 1091
+                },
+                {
+                    "nama": "Merden",
+                    "total": 955
+                },
+                {
+                    "nama": "Gumiwang",
+                    "total": 609
+                },
+                {
+                    "nama": "Mertasari",
+                    "total": 494
+                },
+                {
+                    "nama": "Kalipelus",
+                    "total": 476
+                },
+                {
+                    "nama": "Karanganyar",
+                    "total": 442
+                },
+                {
+                    "nama": "Petir",
+                    "total": 382
+                },
+                {
+                    "nama": "Kaliajir",
+                    "total": 361
+                },
+                {
+                    "nama": "Parakan",
+                    "total": 339
+                },
+                {
+                    "nama": "Pucungbedug",
+                    "total": 322
+                },
+                {
+                    "nama": "Kalitengah",
+                    "total": 234
+                },
+                {
+                    "nama": "Kutawuluh",
+                    "total": 144
+                },
+                {
+                    "nama": "MUNTANGSARI",
+                    "total": 6
+                },
+                {
+                    "nama": "BANYUMUDAL",
+                    "total": 1
+                }
+            ],
+            "total": 6960
+        },
+        {
+            "area": "Batur",
+            "sub_area": [
+                {
+                    "nama": "Batur",
+                    "total": 5
+                },
+                {
+                    "nama": "Pasurenan",
+                    "total": 2
+                },
+                {
+                    "nama": "Karangtengah",
+                    "total": 1
+                }
+            ],
+            "total": 8
+        },
+        {
+            "area": "Pandanarum",
+            "sub_area": [
+                {
+                    "nama": "Sirongge",
+                    "total": 18
+                },
+                {
+                    "nama": "Pingit Lor",
+                    "total": 17
+                },
+                {
+                    "nama": "Lawen",
+                    "total": 10
+                },
+                {
+                    "nama": "Pringamba",
+                    "total": 5
+                },
+                {
+                    "nama": "Pasegeran",
+                    "total": 2
+                },
+                {
+                    "nama": "Beji",
+                    "total": 1
+                },
+                {
+                    "nama": "Pandanarum",
+                    "total": 1
+                }
+            ],
+            "total": 54
+        },
+        {
+            "area": "Mandiraja",
+            "sub_area": [
+                {
+                    "nama": "Mandiraja Kulon",
+                    "total": 878
+                },
+                {
+                    "nama": "Mandiraja Wetan",
+                    "total": 878
+                },
+                {
+                    "nama": "Kertayasa",
+                    "total": 628
+                },
+                {
+                    "nama": "Somawangi",
+                    "total": 426
+                },
+                {
+                    "nama": "Kaliwungu",
+                    "total": 283
+                },
+                {
+                    "nama": "Panggisari",
+                    "total": 270
+                },
+                {
+                    "nama": "Kebakalan",
+                    "total": 255
+                },
+                {
+                    "nama": "Kebanaran",
+                    "total": 233
+                },
+                {
+                    "nama": "Jalatunda",
+                    "total": 210
+                },
+                {
+                    "nama": "Purwasaba",
+                    "total": 203
+                },
+                {
+                    "nama": "Glempang",
+                    "total": 179
+                },
+                {
+                    "nama": "Candiwulan",
+                    "total": 163
+                },
+                {
+                    "nama": "Banjengan",
+                    "total": 148
+                },
+                {
+                    "nama": "Blimbing",
+                    "total": 119
+                },
+                {
+                    "nama": "Simbang",
+                    "total": 99
+                },
+                {
+                    "nama": "Salamerta",
+                    "total": 74
+                }
+            ],
+            "total": 5046
+        },
+        {
+            "area": "Sigaluh",
+            "sub_area": [
+                {
+                    "nama": "Pringamba",
+                    "total": 25
+                },
+                {
+                    "nama": "Gembongan",
+                    "total": 21
+                },
+                {
+                    "nama": "Kalibenda",
+                    "total": 14
+                },
+                {
+                    "nama": "Sawal",
+                    "total": 6
+                },
+                {
+                    "nama": "Randegan",
+                    "total": 4
+                },
+                {
+                    "nama": "Kemiri",
+                    "total": 4
+                },
+                {
+                    "nama": "Tunggara",
+                    "total": 4
+                },
+                {
+                    "nama": "Bandingan",
+                    "total": 3
+                },
+                {
+                    "nama": "Bojanegara",
+                    "total": 2
+                },
+                {
+                    "nama": "singamerta",
+                    "total": 2
+                },
+                {
+                    "nama": "Sigaluh",
+                    "total": 1
+                },
+                {
+                    "nama": "Prigi",
+                    "total": 1
+                },
+                {
+                    "nama": "Singomerto (Singamerta)",
+                    "total": 1
+                },
+                {
+                    "nama": "Panawaren",
+                    "total": 1
+                }
+            ],
+            "total": 89
+        }
+    ]
+}
