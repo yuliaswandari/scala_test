@@ -101,7 +101,7 @@ sbt run
 ---
 
 ## **Author**
-👩‍💻 **Yulias Wandari**  
+👩‍💻 **Yulia Swandari**  
 📌 **Tech Stack:** Scala, Play Framework, Anorm, MySQL, Docker  
 
 ---
